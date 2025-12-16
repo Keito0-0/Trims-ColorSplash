@@ -1,0 +1,8 @@
+{
+  "asset_name": "obsidian",
+  "description": {
+    "color": "#482E68",
+    "text": "Obsidian Material"
+  },
+  "ingredient": "minecraft:obsidian"
+}

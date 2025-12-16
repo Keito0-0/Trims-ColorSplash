@@ -1,0 +1,9 @@
+{
+  "asset_name": "pearl",
+  "description": {
+    "color": "#BB97D4",
+    "text": "Pearlescent Material"
+  },
+  "ingredient": "minecraft:pearlescent_froglight",
+  "item_model_index": 0.42
+}

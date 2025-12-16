@@ -1,0 +1,9 @@
+{
+  "asset_name": "end_crystal",
+  "description": {
+    "color": "#D179AD",
+    "text": "End Crystal Material"
+  },
+  "ingredient": "minecraft:end_crystal",
+  "item_model_index": 0.17
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "rabbit_hide",
+  "description": {
+    "color": "#C19A6A",
+    "text": "Rabbit Hide Material"
+  },
+  "ingredient": "minecraft:rabbit_hide",
+  "item_model_index": 0.34
+}

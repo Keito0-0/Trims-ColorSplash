@@ -1,0 +1,9 @@
+{
+  "asset_name": "phantom",
+  "description": {
+    "color": "#7F8F9F",
+    "text": "Phantom Material"
+  },
+  "ingredient": "minecraft:phantom_membrane",
+  "item_model_index": 0.31
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "id": "minecraft:jigsaw",
+    "components": {
+      "minecraft:item_name": "[{'text':'Rose Gold Alloy','italic':false}]",
+      "minecraft:rarity": "common",
+      "minecraft:custom_model_data": 1
+    },
+    "count": 2
+  }
+}

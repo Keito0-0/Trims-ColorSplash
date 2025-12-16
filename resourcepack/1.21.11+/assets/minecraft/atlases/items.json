@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "item/",
+      "source": "item"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "copper": "minecraft:trims/color_palettes/copper",
+        "copper_darker": "minecraft:trims/color_palettes/copper_darker",
+        "diamond": "minecraft:trims/color_palettes/diamond",
+        "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "gold_darker": "minecraft:trims/color_palettes/gold_darker",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "iron_darker": "minecraft:trims/color_palettes/iron_darker",
+        "lapis": "minecraft:trims/color_palettes/lapis",
+        "netherite": "minecraft:trims/color_palettes/netherite",
+        "netherite_darker": "minecraft:trims/color_palettes/netherite_darker",
+        "quartz": "minecraft:trims/color_palettes/quartz",
+        "redstone": "minecraft:trims/color_palettes/redstone",
+        "resin": "minecraft:trims/color_palettes/resin",
+        "armadillo_scute": "more_colors:trims/color_palettes/armadillo_scute",
+        "blaze": "more_colors:trims/color_palettes/blaze",
+        "breeze": "more_colors:trims/color_palettes/breeze",
+        "crying_obsidian": "more_colors:trims/color_palettes/crying_obsidian",
+        "echo": "more_colors:trims/color_palettes/echo",
+        "end_crystal": "more_colors:trims/color_palettes/end_crystal",
+        "ender_pearl": "more_colors:trims/color_palettes/ender_pearl",
+        "glowstone": "more_colors:trims/color_palettes/glowstone",
+        "leather": "more_colors:trims/color_palettes/leather",
+        "leather_darker": "more_colors:trims/color_palettes/leather_darker",
+        "magma": "more_colors:trims/color_palettes/magma",
+        "nautilus": "more_colors:trims/color_palettes/nautilus",
+        "nether_star": "more_colors:trims/color_palettes/nether_star",
+        "netherite_scrap": "more_colors:trims/color_palettes/netherite_scrap",
+        "obsidian": "more_colors:trims/color_palettes/obsidian",
+        "phantom": "more_colors:trims/color_palettes/phantom",
+        "prismarine": "more_colors:trims/color_palettes/prismarine",
+        "prismarine_crystal": "more_colors:trims/color_palettes/prismarine_crystal",
+        "rabbit_hide": "more_colors:trims/color_palettes/rabbit_hide",
+        "rose_gold": "more_colors:trims/color_palettes/rose_gold",
+        "shulker": "more_colors:trims/color_palettes/shulker",
+        "slime": "more_colors:trims/color_palettes/slime",
+        "turtle_scute": "more_colors:trims/color_palettes/turtle_scute",
+        "turtle_scute_darker": "more_colors:trims/color_palettes/turtle_scute_darker",
+	      "wart": "more_colors:trims/color_palettes/wart",
+        "dripstone": "more_colors:trims/color_palettes/dripstone",
+        "ghast_tear": "more_colors:trims/color_palettes/ghast_tear",
+        "blue_ice": "more_colors:trims/color_palettes/blue_ice",
+        "breath": "more_colors:trims/color_palettes/breath",
+        "sea_heart": "more_colors:trims/color_palettes/sea_heart",
+        "glass": "more_colors:trims/color_palettes/glass"
+      },
+      "textures": [
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/leggings_trim",
+        "minecraft:trims/items/boots_trim"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "prismarine",
+  "description": {
+    "color": "#7BB59A",
+    "text": "Prismarine Material"
+  },
+  "ingredient": "minecraft:prismarine_shard",
+  "item_model_index": 0.32
+}

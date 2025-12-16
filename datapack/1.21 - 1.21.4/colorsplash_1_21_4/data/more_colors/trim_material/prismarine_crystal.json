@@ -1,0 +1,8 @@
+{
+  "asset_name": "prismarine_crystal",
+  "description": {
+    "color": "#BED6C2",
+    "text": "Prismarine Crystal Material"
+  },
+  "ingredient": "minecraft:prismarine_crystals"
+}

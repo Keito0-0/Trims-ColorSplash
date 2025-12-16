@@ -1,0 +1,8 @@
+{
+  "asset_name": "magma",
+  "description": {
+    "color": "#D35D7A",
+    "text": "Magma Material"
+  },
+  "ingredient": "minecraft:magma_cream"
+}

@@ -1,0 +1,8 @@
+{
+  "asset_name": "glass",
+  "description": {
+    "color": "#FFFFFF",
+    "text": "Clear Material"
+  },
+  "ingredient": "minecraft:glass"
+}

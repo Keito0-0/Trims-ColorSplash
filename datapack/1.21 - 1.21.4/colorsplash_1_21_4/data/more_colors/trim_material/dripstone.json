@@ -1,0 +1,8 @@
+{
+  "asset_name": "dripstone",
+  "description": {
+    "color": "#907764",
+    "text": "Dripstone Material"
+  },
+  "ingredient": "minecraft:dripstone_block"
+}

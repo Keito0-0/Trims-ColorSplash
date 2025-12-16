@@ -1,0 +1,9 @@
+{
+  "asset_name": "magma",
+  "description": {
+    "color": "#EC7214",
+    "text": "Magma Material"
+  },
+  "ingredient": "minecraft:magma_block",
+  "item_model_index": 0.24
+}

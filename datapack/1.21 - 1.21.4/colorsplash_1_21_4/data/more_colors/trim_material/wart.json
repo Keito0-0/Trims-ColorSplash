@@ -1,0 +1,8 @@
+{
+  "asset_name": "wart",
+  "description": {
+    "color": "#8C3247",
+    "text": "Wart Material"
+  },
+  "ingredient": "minecraft:nether_wart"
+}

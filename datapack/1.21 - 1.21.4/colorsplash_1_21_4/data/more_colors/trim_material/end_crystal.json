@@ -1,0 +1,8 @@
+{
+  "asset_name": "end_crystal",
+  "description": {
+    "color": "#D179AD",
+    "text": "End Crystal Material"
+  },
+  "ingredient": "minecraft:end_crystal"
+}

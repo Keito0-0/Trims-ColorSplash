@@ -1,0 +1,1 @@
+execute as @e[type=item] if items entity @s contents #more_colors:new_materials[!custom_data~{converted:true}] run function more_colors:material_converter

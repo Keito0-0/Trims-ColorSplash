@@ -1,0 +1,9 @@
+{
+  "asset_name": "ghast_tear",
+  "description": {
+    "color": "#91B7BD",
+    "text": "Ghast Tear Material"
+  },
+  "ingredient": "minecraft:ghast_tear",
+  "item_model_index": 0.19
+}

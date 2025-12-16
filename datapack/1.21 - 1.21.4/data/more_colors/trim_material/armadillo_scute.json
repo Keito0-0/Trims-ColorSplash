@@ -1,0 +1,9 @@
+{
+  "asset_name": "armadillo_scute",
+  "description": {
+    "color": "#CE9692",
+    "text": "Armadillo Scute Material"
+  },
+  "ingredient": "minecraft:armadillo_scute",
+  "item_model_index": 0.41
+}

@@ -1,0 +1,10 @@
+{
+  "asset_name": "leather",
+  "description": {
+    "color": "#825339",
+    "text": "Leather Material"
+  },
+  "override_armor_assets": {
+    "minecraft:leather": "leather_darker"
+  }
+}

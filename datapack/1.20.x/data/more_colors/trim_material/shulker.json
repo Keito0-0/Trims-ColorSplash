@@ -1,0 +1,9 @@
+{
+  "asset_name": "shulker",
+  "description": {
+    "color": "#A375A2",
+    "text": "Shulker Material"
+  },
+  "ingredient": "minecraft:shulker_shell",
+  "item_model_index": 0.36
+}

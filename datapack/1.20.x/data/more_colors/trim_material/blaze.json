@@ -1,0 +1,9 @@
+{
+  "asset_name": "blaze",
+  "description": {
+    "color": "#FFA300", // E5A422
+    "text": "Blaze Material"
+  },
+  "ingredient": "minecraft:blaze_rod",
+  "item_model_index": 0.11
+}

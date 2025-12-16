@@ -1,0 +1,48 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "blaze": "more_colors:trims/color_palettes/blaze",
+        "crying_obsidian": "more_colors:trims/color_palettes/crying_obsidian",
+        "echo": "more_colors:trims/color_palettes/echo",
+        "end_crystal": "more_colors:trims/color_palettes/end_crystal",
+        "ender_pearl": "more_colors:trims/color_palettes/ender_pearl",
+        "glowstone": "more_colors:trims/color_palettes/glowstone",
+        "leather": "more_colors:trims/color_palettes/leather",
+        "leather_darker": "more_colors:trims/color_palettes/leather_darker",
+        "magma": "more_colors:trims/color_palettes/magma",
+        "magma_cream": "more_colors:trims/color_palettes/magma_cream",
+        "nautilus": "more_colors:trims/color_palettes/nautilus",
+        "nether_star": "more_colors:trims/color_palettes/nether_star",
+        "netherite_scrap": "more_colors:trims/color_palettes/netherite_scrap",
+        "obsidian": "more_colors:trims/color_palettes/obsidian",
+        "phantom": "more_colors:trims/color_palettes/phantom",
+        "prismarine": "more_colors:trims/color_palettes/prismarine",
+        "prismarine_crystal": "more_colors:trims/color_palettes/prismarine_crystal",
+        "rabbit_hide": "more_colors:trims/color_palettes/rabbit_hide",
+        "shulker": "more_colors:trims/color_palettes/shulker",
+        "slime": "more_colors:trims/color_palettes/slime",
+        "turtle_scute": "more_colors:trims/color_palettes/turtle_scute",
+        "turtle_scute_darker": "more_colors:trims/color_palettes/turtle_scute_darker",
+	      "wart": "more_colors:trims/color_palettes/wart",
+        "dripstone": "more_colors:trims/color_palettes/dripstone",
+        "ghast_tear": "more_colors:trims/color_palettes/ghast_tear",
+        "blue_ice": "more_colors:trims/color_palettes/blue_ice",
+        "breath": "more_colors:trims/color_palettes/breath",
+        "sea_heart": "more_colors:trims/color_palettes/sea_heart",
+        "glass": "more_colors:trims/color_palettes/glass",
+        "brick": "more_colors:trims/color_palettes/brick",
+        "honey": "more_colors:trims/color_palettes/honey",
+        "pearl": "more_colors:trims/color_palettes/pearl"
+      }
+    }
+  ]
+}

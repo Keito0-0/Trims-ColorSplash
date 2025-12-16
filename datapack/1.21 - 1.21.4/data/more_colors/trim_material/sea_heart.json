@@ -1,0 +1,9 @@
+{
+  "asset_name": "sea_heart",
+  "description": {
+    "color": "#1E97B2",
+    "text": "Sea Heart Material"
+  },
+  "ingredient": "minecraft:heart_of_the_sea",
+  "item_model_index": 0.35
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "brick",
+  "description": {
+    "color": "#A75740",
+    "text": "Brick Material"
+  },
+  "ingredient": "minecraft:brick",
+  "item_model_index": 0.41
+}

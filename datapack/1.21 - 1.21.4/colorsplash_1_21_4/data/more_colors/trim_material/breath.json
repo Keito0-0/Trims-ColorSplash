@@ -1,0 +1,8 @@
+{
+  "asset_name": "breath",
+  "description": {
+    "color": "#DF70EA",
+    "text": "Dragon Breath Material"
+  },
+  "ingredient": "minecraft:dragon_breath"
+}

@@ -1,0 +1,8 @@
+{
+  "asset_name": "ender_pearl",
+  "description": {
+    "color": "#2F9372",
+    "text": "Ender Pearl Material"
+  },
+  "ingredient": "minecraft:ender_pearl"
+}
