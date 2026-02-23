@@ -1,0 +1,8 @@
+{
+  "asset_name": "breath",
+  "description": {
+    "color": "#DF70EA",
+    "translate": "trim_material.colorsplash.breath"
+  },
+  "ingredient": "minecraft:dragon_breath"
+}

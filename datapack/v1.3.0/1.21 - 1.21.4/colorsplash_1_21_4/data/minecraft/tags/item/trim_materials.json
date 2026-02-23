@@ -1,0 +1,33 @@
+{
+  "values": [
+        "minecraft:netherite_scrap",
+        "minecraft:leather",
+        "minecraft:nether_wart",
+        "minecraft:turtle_scute",
+        "minecraft:ender_pearl",
+        "minecraft:echo_shard",
+        "minecraft:obsidian",
+        "minecraft:shulker_shell",
+        "minecraft:phantom_membrane",
+        "minecraft:nautilus_shell",
+        "minecraft:rabbit_hide",
+        "minecraft:blaze_rod",
+        "minecraft:glowstone_dust",
+        "minecraft:prismarine_shard",
+        "minecraft:crying_obsidian",
+        "minecraft:end_crystal",
+        "minecraft:slime_ball",
+        "minecraft:prismarine_crystals",
+        "minecraft:nether_star",
+        "minecraft:magma_cream",
+        "minecraft:dripstone_block",
+        "minecraft:ghast_tear",
+        "minecraft:heart_of_the_sea",
+        "minecraft:blue_ice",
+        "minecraft:dragon_breath",
+        "minecraft:glass",
+        "minecraft:armadillo_scute",
+        "minecraft:jigsaw",
+        "minecraft:breeze_rod"
+    ]
+}

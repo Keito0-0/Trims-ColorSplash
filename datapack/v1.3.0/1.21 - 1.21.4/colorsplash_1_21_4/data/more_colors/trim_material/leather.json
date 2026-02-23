@@ -1,0 +1,11 @@
+{
+  "asset_name": "leather",
+  "description": {
+    "color": "#825339",
+    "translate": "trim_material.colorsplash.leather"
+  },
+  "ingredient": "minecraft:leather",
+  "override_armor_assets": {
+  "leather": "leather_darker"
+  }
+}

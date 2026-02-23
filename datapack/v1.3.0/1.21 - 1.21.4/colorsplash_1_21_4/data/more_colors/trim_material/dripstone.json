@@ -1,0 +1,8 @@
+{
+  "asset_name": "dripstone",
+  "description": {
+    "color": "#907764",
+    "translate": "trim_material.colorsplash.dripstone"
+  },
+  "ingredient": "minecraft:dripstone_block"
+}

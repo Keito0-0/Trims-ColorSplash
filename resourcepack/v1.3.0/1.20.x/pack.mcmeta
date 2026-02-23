@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [
+        15,
+        32
+    ],
+    "description": [
+      "Adds more trim colors"
+    ]
+  },
+  "overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 32, "max_inclusive": 999},
+				"directory": "colorsplash_1_20_5"
+			}
+		]
+	}
+}

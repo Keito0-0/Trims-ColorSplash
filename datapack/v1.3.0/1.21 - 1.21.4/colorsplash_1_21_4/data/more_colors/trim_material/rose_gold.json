@@ -1,0 +1,8 @@
+{
+  "asset_name": "rose_gold",
+  "description": {
+    "color": "#D39181",
+    "translate": "trim_material.colorsplash.rose_gold"
+  },
+  "ingredient": "minecraft:jigsaw"
+}

@@ -1,0 +1,8 @@
+{
+  "asset_name": "glass",
+  "description": {
+    "color": "#FFFFFF",
+    "translate": "trim_material.colorsplash.clear"
+  },
+  "ingredient": "minecraft:glass"
+}

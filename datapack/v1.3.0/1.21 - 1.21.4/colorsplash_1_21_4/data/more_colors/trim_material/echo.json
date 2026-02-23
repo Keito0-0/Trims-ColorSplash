@@ -1,0 +1,8 @@
+{
+  "asset_name": "echo",
+  "description": {
+    "color": "#17B4B7",
+    "translate": "trim_material.colorsplash.echo"
+  },
+  "ingredient": "minecraft:echo_shard"
+}

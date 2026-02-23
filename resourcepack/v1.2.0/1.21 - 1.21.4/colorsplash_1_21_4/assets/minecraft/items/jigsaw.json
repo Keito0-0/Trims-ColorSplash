@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/jigsaw"
+    },
+    "cases": [
+      {
+        "when": "rose_gold_alloy",
+        "model": {
+          "type": "model",
+          "model": "item/rose_gold_alloy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "asset_name": "breeze",
+  "description": {
+    "color": "#B0A1D1",
+    "translate": "trim_material.colorsplash.breeze"
+  },
+  "ingredient": "minecraft:breeze_rod"
+}
