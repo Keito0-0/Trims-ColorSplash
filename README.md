@@ -1,45 +1,74 @@
-# Trims - Color Splash! 🎨
-Adds <b>29 new trim materials</b> that you can apply to your armor in the smithing table!<br>
-Heavily inspired by [More Trim Colors](https://modrinth.com/datapack/more-trim-colors) by [Skottify](https://modrinth.com/user/Skottify)!
+<center>
+  <h1>Trims - Color Splash! 🎨</h1>
+  Adds <b>29 new trim materials</b> that you can apply to your armor in the smithing table!<br>
+  Heavily inspired by <a href="https://modrinth.com/datapack/more-trim-colors">More Trim Colors</a> by <a href="https://modrinth.com/user/Skottify">Skottify!</a> <br><br>
+  <!--
+  <a href="https://modrinth.com/datapack/trims-color-splash">
+    <img src="https://img.shields.io/modrinth/dt/trims-color-splash?logo=modrinth&logoColor=white&label=Modrinth&color=00af5c">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/issues/Keito0-0/Trims-ColorSplash?color=orange&logo=github">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/discord/1432131877875093537?label=&color=2d2d2d&labelColor=dddddd&logo=Discord&">
+  </a>
+  -->
+  <img src="https://cdn.modrinth.com/data/cached_images/cd22dc1f56be69b18ff627469b68ba696753c2e7.png"></img>
+</center>
 
 <br><p align="center"><a href="https://discord.gg/K6FfrDg63Q"><img src="https://cdn.modrinth.com/data/cached_images/99d8e1537bdc422307a8e4c702cd2dec0b31c64a.png" width="400"></a> <br><i>Please join the Discord if you have questions!</i></p>
+<br><br>
 <hr>
-<p align="center"><em>(When using the datapack version, please make sure you install the required resource pack as it is needed for it to function correctly!)</em><br><br>
-<img src="https://cdn.modrinth.com/data/cached_images/866b62cbc3eda0b0f7043edf4e35cc1b12248388.png" alt="Resource Pack Download Guide" width="400"></p>
+<p align="center"><em>(When using the datapack version, please make sure you also install the required resource pack as it is needed for it to function correctly!)</em><br><br>
+<img src="https://cdn.modrinth.com/data/cached_images/641b7526523d789b76d793ac57f74816af9779a3.png" alt="Resource Pack Download Guide"></p>
 <details>
   <summary>All new trim materials</summary>
   <h2> 1.21.4 and up </h2>
-    <ul>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/f724bc9407914c20aef04c1deaa5247ca14c40ed.png" alt="Armadillo Scute"> Armadillo Scute</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/e27954e374e57db722946ae8fdd4c99f5a7f0fe0.png" alt="Blaze Rod"> Blaze Rod</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/d88f8a4fe8030e4cadc88b1a925e4ace2d4e0413.png" alt="Blue Ice"> Blue Ice</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/f1f604e98c11b1b956ac5c3d00510afaf76b9307.png" alt="Breeze Rod"> Breeze Rod</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/774d85b10267865ee18f360f340be5f64d2b58b2.png" alt="Crying Obsidian"> Crying Obsidian</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/b040d3ec03e29d14934885274a1c37c6290a6152.png" alt="Dragon Breath"> Dragon Breath</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/a652887165ef80d5aee453f1f15f492c7f2e8ec3.png" alt="Dripstone Block"> Dripstone Block</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/72ef8fc6ae1f1baaab40ec59dd6924de8d451f7e.png" alt="Echo Shard"> Echo Shard</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/9eca7022de15e71849f879fe0a5c3f36ab9d7ffa.png" alt="End Crystal"> End Crystal</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/c2d509bd5f42e61ea73927657fb1ee267de7371e.png" alt="Ender Pearl"> Ender Pearl</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/cc9605eedd8b8eb5dc1fb72f3db4b84fa1fbf199.png" alt="Ghast Tear"> Ghast Tear</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/c57de99c7649413d119e55b3e8eae4e68de77422.png" alt="Glass"> Glass <i>(Removes trims)</i></li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/c269b96c39de587922073133256df73584a4abf1.png" alt="Glowstone Dust"> Glowstone Dust</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/5d0726a93acd84c43a28d225d2b40b952a6a30c1.png" alt="Heart Of The Sea"> Heart Of The Sea</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/9c847f288c3ca832fd5c662cdbb421700f3c9b1e.png" alt="Leather"> Leather</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/7b4787c7aed1d738aa070f48339738dc001ca487.png" alt="Magma Cream"> Magma Cream</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/6ca74675dd8c9e8d33ea94baceda100764039aa9.png" alt="Nautilus Shell"> Nautilus Shell</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/f770a646e3d5aa721420a06195768c3b30d0faad.png" alt="Nether Star"> Nether Star</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/f894f116d4486cc7f0a8f4174255e5967d31c8c3.png" alt="Nether Wart"> Nether Wart</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/7ac5483efbd15a265bfd61c28d1b29ce5b4f202d.png" alt="Netherite Scrap"> Netherite Scrap</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/9d87480d5ed773de1b05c2ca05293e46575910d0.png" alt="Obsidian"> Obsidian</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/f7d9916159d3f54ea2c428e9f92c7f807ade1d00.png" alt="Phantom Membrane"> Phantom Membrane</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/725824f3a3e467be1c7c621c72ae16719c9cf801.png" alt="Prismarine Shard"> Prismarine Shard</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/468bdd915fda7881cf2365d767f3829e7c606c90.png" alt="Prismarine Crystals"> Prismarine Crystals</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/0cd8c9134829b9c9014bf41dd5eebf9d65315418.png" alt="Rabbit Hide"> Rabbit Hide</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/cc4c7dd12c04da913c1776ae37b7631cbc614b93.png" alt="Rose Gold"> Rose Gold</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/69e0a8f4af7c45929792bb81bbfe6a281526d08b.png" alt="Shulker Shell"> Shulker Shell</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/3aed45464d92e8d667f3b963de2206df50de4dae.png" alt="Slime Ball"> Slime Ball</li>
-      <li><img src="https://cdn.modrinth.com/data/cached_images/51c8bbcdfda444c9ba214df675fc4630d494f708.png" alt="Turtle Scute"> Turtle Scute</li>
-    </ul>
+<!-- =============== TABLE ============= -->
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/f724bc9407914c20aef04c1deaa5247ca14c40ed.png" alt="Armadillo Scute" width="35px"> <br> <strong>Armadillo Scute</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/e27954e374e57db722946ae8fdd4c99f5a7f0fe0.png" alt="Blaze Rod" width="35px"> <br> <strong>Blaze Rod</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/d88f8a4fe8030e4cadc88b1a925e4ace2d4e0413.png" alt="Blue Ice" width="35px"> <br> <strong>Blue Ice</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/f1f604e98c11b1b956ac5c3d00510afaf76b9307.png" alt="Breeze Rod" width="35px"> <br> <strong>Breeze Rod</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/774d85b10267865ee18f360f340be5f64d2b58b2.png" alt="Crying Obsidian" width="35px"> <br> <strong>Crying Obsidian</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/b040d3ec03e29d14934885274a1c37c6290a6152.png" alt="Dragon Breath" width="35px"> <br> <strong>Dragon Breath</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/a652887165ef80d5aee453f1f15f492c7f2e8ec3.png" alt="Dripstone Block" width="35px"> <br> <strong>Dripstone Block</strong> </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/72ef8fc6ae1f1baaab40ec59dd6924de8d451f7e.png" alt="Echo Shard" width="35px"> <br> <strong>Echo Shard</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/9eca7022de15e71849f879fe0a5c3f36ab9d7ffa.png" alt="End Crystal" width="35px"> <br> <strong>End Crystal</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/c2d509bd5f42e61ea73927657fb1ee267de7371e.png" alt="Ender Pearl" width="35px"> <br> <strong>Ender Pearl</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/cc9605eedd8b8eb5dc1fb72f3db4b84fa1fbf199.png" alt="Ghast Tear" width="35px"> <br> <strong>Ghast Tear</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/c269b96c39de587922073133256df73584a4abf1.png" alt="Glowstone Dust" width="35px"> <br> <strong>Glowstone Dust</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/5d0726a93acd84c43a28d225d2b40b952a6a30c1.png" alt="Heart Of The Sea" width="35px"> <br> <strong>Heart Of The Sea</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/9c847f288c3ca832fd5c662cdbb421700f3c9b1e.png" alt="Leather" width="35px"> <br> <strong>Leather</strong> </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/7b4787c7aed1d738aa070f48339738dc001ca487.png" alt="Magma Cream" width="35px"> <br> <strong>Magma Cream</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/6ca74675dd8c9e8d33ea94baceda100764039aa9.png" alt="Nautilus Shell" width="35px"> <br> <strong>Nautilus Shell</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/f770a646e3d5aa721420a06195768c3b30d0faad.png" alt="Nether Star" width="35px"> <br> <strong>Nether Star</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/f894f116d4486cc7f0a8f4174255e5967d31c8c3.png" alt="Nether Wart" width="35px"> <br> <strong>Nether Wart</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/7ac5483efbd15a265bfd61c28d1b29ce5b4f202d.png" alt="Netherite Scrap" width="35px"> <br> <strong>Netherite Scrap</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/9d87480d5ed773de1b05c2ca05293e46575910d0.png" alt="Obsidian" width="35px"> <br> <strong>Obsidian</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/f7d9916159d3f54ea2c428e9f92c7f807ade1d00.png" alt="Phantom Membrane" width="35px"> <br> <strong>Phantom Membrane</strong> </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/725824f3a3e467be1c7c621c72ae16719c9cf801.png" alt="Prismarine Shard" width="35px"> <br> <strong>Prismarine Shard</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/468bdd915fda7881cf2365d767f3829e7c606c90.png" alt="Prismarine Crystals" width="35px"> <br> <strong>Prismarine Crystals</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/0cd8c9134829b9c9014bf41dd5eebf9d65315418.png" alt="Rabbit Hide" width="35px"> <br> <strong>Rabbit Hide</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/cc4c7dd12c04da913c1776ae37b7631cbc614b93.png" alt="Rose Gold" width="35px"> <br> <strong>Rose Gold</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/69e0a8f4af7c45929792bb81bbfe6a281526d08b.png" alt="Shulker Shell" width="35px"> <br> <strong>Shulker Shell</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/3aed45464d92e8d667f3b963de2206df50de4dae.png" alt="Slime Ball" width="35px"> <br> <strong>Slime Ball</strong> </td>
+      <td style="text-align:center;"><img src="https://cdn.modrinth.com/data/cached_images/51c8bbcdfda444c9ba214df675fc4630d494f708.png" alt="Turtle Scute" width="35px"> <br> <strong>Turtle Scute</strong> </td>
+    </tr>
+  </tbody>
+</table>
+<h3>Visually removing trims</h3>
+  <ul>
+    <li><img src="https://cdn.modrinth.com/data/cached_images/c57de99c7649413d119e55b3e8eae4e68de77422.png" alt="Glass" width="16px"> Glass</li>
+  </ul>
   <h2>Older versions</h2>
   <ul>
   <li><img src="https://cdn.modrinth.com/data/cached_images/f724bc9407914c20aef04c1deaa5247ca14c40ed.png" alt="Armadillo Scute"> Armadillo Scute -> <img src="https://cdn.modrinth.com/data/cached_images/c4837669d61294e19fe120bc92922ded6137bed4.png" alt="Brick"> <b>Brick</b> (< 1.20.5)</li>
@@ -122,4 +151,10 @@ Heavily inspired by [More Trim Colors](https://modrinth.com/datapack/more-trim-c
 ### Q: Where can I find and download the resource pack?<br>
 A: The main download button on Modrinth only provides the datapack, not the resource pack. You need to go to the "Versions" tab to find and download the resource pack file. (see img at the top of the page)
 
-Special thanks to [Lynx](https://modrinth.com/user/lynx-xdg) for help with generating files!
+<details>
+  <summary>Credits:</summary>
+  - Huge thanks to <a href="https://modrinth.com/user/Skottify">Skottify </a>for the inspiration! <br><br>
+  - Special thanks to <a href="https://modrinth.com/user/lynx-xdg">Lynx </a>for help with generating files!<br><br>
+  - Thanks to <a href="https://modrinth.com/user/Lightningfoxxy">Lightningfoxxy </a>for help with the conversion functions! <br><br>
+  - And thanks to all the localization contributors! ♥ <i>(see v1.3.0 changelog)</i>
+</details>
